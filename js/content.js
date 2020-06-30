@@ -1,213 +1,213 @@
 var questions = {
 	question1: {
 		questionLabel: "Question 1 Text",
-		questionText: "What is the correct answer?",
-		questionImage: 'images/pic2.png',
+		questionText: "Entomology is the science that studies",
+		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "Insects",
 			correctResponse: true,
 		},
 		optionB: {
-			responseText: "Option B",
+			responseText: "Behavior of human beings",
 			correctResponse: false,
 		},
 		optionC: {
-			responseText: "Option C",
+			responseText: "The origin and history of technical and scientific terms",
 			correctResponse: false,
 		},
 		optionD: {
-			responseText: "Option D",
+			responseText: "The formation of rocks",
 			correctResponse: false,
 		},
 	},
 	question2: {
 		questionLabel: "Question 2 Text",
-		questionText: "What is the correct answer?",
+		questionText: "The language spoken by the people by Pakistan is ?",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "Palauan",
 			correctResponse: false,
 		},
 		optionB: {
-			responseText: "Option B",
+			responseText: "Sindhi",
 			correctResponse: true,
 		},
 		optionC: {
-			responseText: "Option C",
+			responseText: "Hindi",
 			correctResponse: false,
 		},
 		optionD: {
-			responseText: "Option D",
+			responseText: "Nauruan",
 			correctResponse: false,
 		},
 	},
 	question3: {
 		questionLabel: "Question 3 Text",
-		questionText: "What is the correct answer?",
+		questionText: "The World Largest desert is ?",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "Thar",
 			correctResponse: false,
 		},
 		optionB: {
-			responseText: "Option B",
+			responseText: "Kalahari",
 			correctResponse: false,
 		},
 		optionC: {
-			responseText: "Option C",
+			responseText: "Sahara",
 			correctResponse: true,
 		},
 		optionD: {
-			responseText: "Option D",
+			responseText: "Sonoran",
 			correctResponse: false,
 		},
 	},
 	question4: {
 		questionLabel: "Question 4 Text",
-		questionText: "What is the correct answer?",
+		questionText: "Galileo was an Italian astronomer who",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "developed the telescope",
 			correctResponse: false,
 		},
 
 		optionB: {
-			responseText: "Option B",
+			responseText: "discovered four satellites of Jupiter",
 			correctResponse: false,
 		},
 
 		optionC: {
-			responseText: "Option C",
+			responseText: "discovered that the movement of pendulum produces a regular time measurement",
 			correctResponse: false,
 		},
 
 		optionD: {
-			responseText: "Option D",
+			responseText: "All of the above",
 			correctResponse: true,
 		},
 
 	},
 	question5: {
 		questionLabel: "Question 5 Text",
-		questionText: "What is the correct answer?",
+		questionText: "Escape velocity of a rocket fired from the earth towards the moon is a velocity to get rid of the",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "Earth's gravitational pull",
 			correctResponse: true,
 		},
 
 		optionB: {
-			responseText: "Option B",
+			responseText: "Moon's gravitational pull",
 			correctResponse: false,
 		},
 
 		optionC: {
-			responseText: "Option C",
+			responseText: "Centripetal force due to the earth's rotation",
 			correctResponse: false,
 		},
 
 		optionD: {
-			responseText: "Option D",
+			responseText: "Pressure of the atmosphere",
 			correctResponse: false,
 		},
 
 	},
 	question6: {
 		questionLabel: "Question 6 Text",
-		questionText: "What is the correct answer?",
+		questionText: "For purifying drinking water alum is used",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "to kill bacteria",
 			correctResponse: false,
 		},
 
 		optionB: {
-			responseText: "Option B",
+			responseText: "for coagulation of mud particles",
 			correctResponse: true,
 		},
 
 		optionC: {
-			responseText: "Option C",
+			responseText: "to remove salts",
 			correctResponse: false,
 		},
 
 		optionD: {
-			responseText: "Option D",
+			responseText: "to remove gases",
 			correctResponse: false,
 		},
 
 	},
 	question7: {
 		questionLabel: "Question 7 Text",
-		questionText: "What is the correct answer?",
+		questionText: "For the Olympics and World Tournaments, the dimensions of basketball court are",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "26 m x 14 m",
 			correctResponse: false,
 		},
 
 		optionB: {
-			responseText: "Option B",
+			responseText: "27 m x 16 m",
 			correctResponse: false,
 		},
 
 		optionC: {
-			responseText: "Option C",
+			responseText: "28 m x 15 m",
 			correctResponse: true,
 		},
 
 		optionD: {
-			responseText: "Option D",
+			responseText: "28 m x 16 m",
 			correctResponse: false,
 		},
 
 	},
 	question8: {
 		questionLabel: "Question 8 Text",
-		questionText: "What is the correct answer?",
+		questionText: "Headquarters of UNO are situated at",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "Hague (Netherlands)",
 			correctResponse: false,
 		},
 
 		optionB: {
-			responseText: "Option B",
+			responseText: "Geneva",
 			correctResponse: false,
 		},
 
 		optionC: {
-			responseText: "Option C",
+			responseText: "Paris",
 			correctResponse: false,
 		},
 
 		optionD: {
-			responseText: "Option D",
+			responseText: "New York, USA",
 			correctResponse: true,
 		},
 
 	},
 	question9: {
 		questionLabel: "Question 9 Text",
-		questionText: "What is the correct answer?",
+		questionText: "Fathometer is used to measure",
 		questionImage: 'images/forest.jpg',
 		optionA: {
-			responseText: "Option A",
+			responseText: "Ocean depth",
 			correctResponse: true,
 		},
 
 		optionB: {
-			responseText: "Option B",
+			responseText: "Earthquakes",
 			correctResponse: false,
 		},
 
 		optionC: {
-			responseText: "Option C",
+			responseText: "Rainfall",
 			correctResponse: false,
 		},
 
 		optionD: {
-			responseText: "Option D",
+			responseText: "Sound intensity",
 			correctResponse: false,
 		},
 
